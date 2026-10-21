@@ -22,6 +22,7 @@ Through this project, I am working on how to:
 - Recommend realistic ways to reduce risk.
 - Assign risk owners and document follow-up actions.
 - Map risks to relevant parts of the NIST Cybersecurity Framework (CSF) 2.0.
+- Compared selected security practices against ISO/IEC 27001 requirements and controls.
 - Review security policies and compare current practices against selected security requirements.
 - Write clear findings and recommendations that a business team can understand.
 
