@@ -60,6 +60,10 @@ I am building the project in stages so each part contributes to the final assess
 | Final Assessment Report       | Bring the assessment together into one organized report with key risks and recommendations.        | Planned         |
 
 ## How I Score Risks
+**Completed Risk Register Files**
+
+- [Download the Cybersecurity Risk Register (Excel)](01-risk-register/BrightPath_Cybersecurity_Risk_Register.xlsx)
+- [Read the Cybersecurity Risk Register (PDF)](01-risk-register/BrightPath_GRC_Risk_Register_Readable.pdf)
 
 I use a simple scoring method to estimate the level of risk.
 
