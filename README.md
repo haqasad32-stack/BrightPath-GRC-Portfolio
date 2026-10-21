@@ -58,8 +58,8 @@ I am building the project in stages so each part contributes to the final assess
 | ISO 27001 Mini Gap Assessment | Compare selected requirements and controls against BrightPath's assumed practices.                 | Planned         |
 | Audit-Style Findings          | Document two to three findings, their potential impact, and recommended corrective actions.        | Planned         |
 | Final Assessment Report       | Bring the assessment together into one organized report with key risks and recommendations.        | Planned         |
-- [Download the Cybersecurity Risk Register (Excel)](01-risk-register/BrightPath_Cybersecurity_Risk_Register.xlsx)
-  
+[View the Cybersecurity Risk Register (Excel)](01-risk-register/BrightPath_Cybersecurity_Risk_Register.xlsx)
+
 ## How I Score Risks
 I use a simple scoring method to estimate the level of risk.
 
